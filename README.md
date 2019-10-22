@@ -1,7 +1,7 @@
 # deep-learning
 # Sample Story
 
-## Overview
+## Baklazanai
 
 This is an sample md (.md) file written in markdown language for easy documentation of github code repos and story telling.
 
@@ -11,7 +11,7 @@ Use this example to draw your Tables
 
 | Name | Value | Description |
 |------|-------|-------------|
-| Vismantas | Sep. 2018 | Weeb |
+| Vismantas | Oct. 2019 | Weeb |
 
 ## Text highlights
 
